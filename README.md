@@ -1,15 +1,16 @@
-# E-Commerce Data Analysis
+# Customer Segmentation
 
 ## Objective
-Analyze product categories and pricing trends.
+Group customers based on spending behavior using clustering.
 
 ## Steps
-- Data exploration
+- Data preprocessing
+- Feature scaling
+- K-Means clustering
 - Visualization
-- Pattern analysis
 
 ## Tools
-Python, Pandas, Matplotlib, Seaborn
+Python, Pandas, Scikit-learn
 
 ## Outcome
-Identified category-wise pricing patterns and customer behavior trends.
+Customers grouped into meaningful segments for business insights.
